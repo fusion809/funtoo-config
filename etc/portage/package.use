@@ -120,7 +120,7 @@
 # required by kde-plasma/plasma-meta-5.9.2::gentoo
 # required by kde-plasma/plasma-meta (argument)
 >=media-video/vlc-2.2.4-r1 dbus ogg vorbis
-app-editors/gvim lua netbeans perl ruby -gtk3
+app-editors/gvim lua netbeans perl ruby -gtk3 -gnome
 # required by x11-misc/primus-0.2::gentoo
 # required by x11-misc/bumblebee-3.2.1_p20170123::gentoo
 # required by x11-misc/bumblebee (argument)
@@ -472,3 +472,4 @@ app-arch/p7zip kde wxwidgets
 >=sci-visualization/gnuplot-5.0.5 wxwidgets
 sys-apps/pacman curl
 app-office/libreoffice -eds
+dev-util/geany -gtk3
