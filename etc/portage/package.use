@@ -473,3 +473,4 @@ app-arch/p7zip kde wxwidgets
 sys-apps/pacman curl
 app-office/libreoffice -eds
 dev-util/geany -gtk3
+sys-apps/xdg-desktop-portal-gtk -wayland
