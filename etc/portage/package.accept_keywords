@@ -1,0 +1,10 @@
+# required by =app-office/libreoffice-5.3.1.2 (argument)
+=app-office/libreoffice-5.3.1.2 **
+# required by app-office/libreoffice-5.3.1.2::fusion809
+# required by =app-office/libreoffice-5.3.1.2 (argument)
+# required by dev-libs/liborcus-9999::gentoo[spreadsheet-model]
+# required by app-office/libreoffice-5.3.1.2::fusion809
+# required by =app-office/libreoffice-5.3.1.2 (argument)
+=dev-libs/libixion-0.12.1 **
+# required by =dev-libs/liborcus-0.12.1 (argument)
+=dev-libs/liborcus-0.12.1 **
